@@ -24,10 +24,9 @@ function WhitelistManager:fetchWhitelist()
         end
         
         retries = retries - 1
-        wait(1)  -- wait before retrying
+        wait(1)
     end
     
-    -- Return empty whitelist if failed
     return {}
 end
 
