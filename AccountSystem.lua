@@ -27,6 +27,10 @@ return {
         {
             Username = "DesireWalkEmDownWitSwitch",
             Password = "Desire69420"
+        },
+        {
+            Username = "allentheprime",
+            Password = "allenonthatbeat"
         }
     }
 }
