@@ -35,6 +35,10 @@ return {
         {
             Username = "demariodaviss12",
             Password = "12345678"
+        },
+        {
+            Username = "s1mplybreezy",
+            Password = "thegoatbreezy1234@"
         }
     }
 }
