@@ -3,67 +3,67 @@ return {
         {
             Username = "Aero",
             Password = "bigdaddyaero",
-            HardwareId = "aero-primary-pc",
+            HardwareId = "",
             IsActive = true
         },
         {
             Username = "dexterv83741",
             Password = "Tamarind12@",
-            HardwareId = "dex-gaming-pc", 
+            HardwareId = "", 
             IsActive = true
         },
         {
             Username = "ellenyk",
             Password = "HWHHAHHWS",
-            HardwareId = "ellen-main",
+            HardwareId = "",
             IsActive = true
         },
         {
             Username = "Jellyzlover",
             Password = "Rankgame55",
-            HardwareId = "jellyz-pc",
+            HardwareId = "",
             IsActive = true
         },
         {
             Username = "mightymafia",
             Password = "mafiaclantop1clan",
-            HardwareId = "mafia-gaming",
+            HardwareId = "",
             IsActive = true
         },
         {
             Username = "bedwars_yopro",
             Password = "bw_@adol43(¿¡)9#334",
-            HardwareId = "yopro-main",
+            HardwareId = "",
             IsActive = true
         },
         {
             Username = "DesireWalkEmDownWitSwitch",
             Password = "Desire69420",
-            HardwareId = "desire-pc",
+            HardwareId = "",
             IsActive = true
         },
         {
             Username = "allentheprime",
             Password = "allenonthatbeat",
-            HardwareId = "allen-main",
+            HardwareId = "",
             IsActive = true
         },
         {
             Username = "demariodaviss12",
             Password = "12345678",
-            HardwareId = "demario-pc",
+            HardwareId = "",
             IsActive = true
         },
         {
             Username = "s1mplybreezy",
             Password = "thegoatbreezy1234@",
-            HardwareId = "breezy-gaming",
+            HardwareId = "",
             IsActive = true
         },
         {
             Username = "theerm",
             Password = "theerm1234",
-            HardwareId = "theerm-pc",
+            HardwareId = "",
             IsActive = true
         }
     }
