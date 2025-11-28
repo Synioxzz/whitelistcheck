@@ -2,55 +2,68 @@ return {
     Accounts = {
         {
             Username = "Aero",
-            Password = "bigdaddyaero"
+            Password = "bigdaddyaero",
+            IsActive = true
         },
         {
             Username = "dexterv83741",
-            Password = "Tamarind12@"
+            Password = "Tamarind12@",
+            IsActive = true
         },
         {
             Username = "Sxvy",
-            Password = "Sxvy1234"
+            Password = "Sxvy1234",
+            IsActive = true
         },
         {
             Username = "Jellyzlover",
-            Password = "Rankgame55"
+            Password = "Rankgame55",
+            IsActive = true
         },
         {
             Username = "mightymafia",
-            Password = "mafiaclantop1clan"
+            Password = "mafiaclantop1clan",
+            IsActive = true
         },
         {
             Username = "bedwars_yopro",
-            Password = "bw_@adol43(¿¡)9#334"
+            Password = "bw_@adol43(¿¡)9#334",
+            IsActive = true
         },
         {
             Username = "DesireWalkEmDownWitSwitch",
-            Password = "Desire69420"
+            Password = "Desire69420",
+            IsActive = true
         },
         {
             Username = "abstract",
-            Password = "abstractspunyoblock"
+            Password = "abstractspunyoblock",
+            IsActive = true
         },
         {
             Username = "demariodaviss12",
-            Password = "12345678"
+            Password = "12345678",
+            IsActive = true
         },
         {
             Username = "s1mplybreezy",
-            Password = "thegoatbreezy1234@"
+            Password = "thegoatbreezy1234@",
+            IsActive = true
         },
         {
             Username = "theerm",
-            Password = "theerm1234"
+            Password = "theerm1234",
+            IsActive = true
         },
         {
             Username = "mosa",
-            Password = "mosa1234"
+            Password = "mosa1234",
+            IsActive = true
         },
         {
             Username = "5qpr",
-            Password = "uzzalovesmydick"
+            Password = "uzzalovesmydick",
+            IsActive = true
         }
     }
 }
