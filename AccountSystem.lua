@@ -48,7 +48,7 @@ return {
         {
             Username = "s1mplybreezy",
             Password = "thegoatbreezy1234@",
-            IsActive = false
+            IsActive = true
         },
         {
             Username = "theerm",
