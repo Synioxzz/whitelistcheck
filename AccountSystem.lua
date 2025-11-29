@@ -18,7 +18,7 @@ return {
         {
             Username = "Jellyzlover",
             Password = "Rankgame55",
-            IsActive = true
+            IsActive = false
         },
         {
             Username = "mightymafia",
