@@ -3,7 +3,7 @@ return {
         {
             Username = "Aero",
             Password = "bigdaddyaero",
-            IsActive = true
+            IsActive = false
         },
         {
             Username = "dexterv83741",
@@ -83,6 +83,11 @@ return {
         {
             Username = "yinptsd",
             Password = "yinyangpowers",
+            IsActive = true
+        },
+        {
+            Username = "sytheronthatbeat",
+            Password = "syther1234",
             IsActive = true
         }
     }
