@@ -1,4 +1,4 @@
- return {
+return {
     Accounts = {
         {
             Username = "Aero",
@@ -6,7 +6,7 @@
             IsActive = true
         },
         {
-            Username = "dexterv83741",
+            Username = "Dexter",
             Password = "Tamarind12@",
             IsActive = true
         },
@@ -16,37 +16,32 @@
             IsActive = true
         },
         {
-            Username = "Jellyzlover",
+            Username = "Kiwi",
             Password = "Rankgame55",
             IsActive = true
         },
         {
-            Username = "mightymafia",
+            Username = "Mafia",
             Password = "mafiaclantop1clan",
             IsActive = true
         },
         {
-            Username = "bedwars_yopro",
-            Password = "bw_@adol43(¿¡)9#334",
-            IsActive = true
-        },
-        {
-            Username = "DesireWalkEmDownWitSwitch",
-            Password = "Desire69420",
+            Username = "Desire",
+            Password = "FuckKiwi",
             IsActive = false
         },
         {
-            Username = "abstract",
+            Username = "Abstract",
             Password = "abstractspunyoblock",
             IsActive = true
         },
         {
-            Username = "demariodaviss12",
+            Username = "Croc",
             Password = "12345678",
             IsActive = true
         },
         {
-            Username = "s1mplybreezy",
+            Username = "Breezy",
             Password = "thegoatbreezy1234@",
             IsActive = false
         },
@@ -56,12 +51,7 @@
             IsActive = true
         },
         {
-            Username = "mosa",
-            Password = "mosa1234",
-            IsActive = true
-        },
-        {
-            Username = "5qpr",
+            Username = "GWY",
             Password = "uzzalovesmydick",
             IsActive = true
         },
@@ -71,33 +61,18 @@
             IsActive = true
         },
         {
-            Username = "1yzal",
-            Password = "YinYangCult",
-            IsActive = true
-        },
-        {
-            Username = "IlllllIIIIIlllIIlIll",
-            Password = "BlizzardStocks77",
-            IsActive = true
-        },
-        {
-            Username = "yinptsd",
-            Password = "yinyangpowers",
-            IsActive = true
-        },
-        {
-            Username = "sytheronthatbeat",
-            Password = "syther1234",
-            IsActive = true
-        },
-        {
-            Username = "96jays",
+            Username = "Chase",
             Password = "SigmaFish",
             IsActive = true
         },
         {
             Username = "Crobo",
             Password = "TripleCrobo",
+            IsActive = true
+        },
+        {
+            Username = "Doctor",
+            Password = "DoctorScatPorn",
             IsActive = true
         }
     }
