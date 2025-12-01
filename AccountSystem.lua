@@ -18,7 +18,7 @@
         {
             Username = "Jellyzlover",
             Password = "Rankgame55",
-            IsActive = false
+            IsActive = true
         },
         {
             Username = "mightymafia",
