@@ -69,6 +69,11 @@ return {
             Username = "Crobo",
             Password = "TripleCrobo",
             IsActive = true
+        },
+        {
+            Username = "Doctor",
+            Password = "DoctorScatPorn",
+            IsActive = true
         }
     }
 }
