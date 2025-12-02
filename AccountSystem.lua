@@ -74,6 +74,11 @@ return {
             Username = "Doctor",
             Password = "DoctorScatPorn",
             IsActive = true
+        },
+        {
+            Username = "stxnned",
+            Password = "stxnned12345",
+            IsActive = true
         }
     }
 }
