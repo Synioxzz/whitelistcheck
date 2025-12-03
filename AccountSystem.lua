@@ -1,8 +1,8 @@
 return {
     Accounts = {
         {
-            Username = "Aero",
-            Password = "bigdaddyaero",
+            Username = "SynV4",
+            Password = "NIGGERS",
             IsActive = true
         },
         {
